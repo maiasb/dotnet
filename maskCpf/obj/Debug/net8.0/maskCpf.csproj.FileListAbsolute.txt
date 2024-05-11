@@ -1,0 +1,14 @@
+C:\Users\maiasb\codes\dotnet\maskCpf\bin\Debug\net8.0\maskCpf.exe
+C:\Users\maiasb\codes\dotnet\maskCpf\bin\Debug\net8.0\maskCpf.deps.json
+C:\Users\maiasb\codes\dotnet\maskCpf\bin\Debug\net8.0\maskCpf.runtimeconfig.json
+C:\Users\maiasb\codes\dotnet\maskCpf\bin\Debug\net8.0\maskCpf.dll
+C:\Users\maiasb\codes\dotnet\maskCpf\bin\Debug\net8.0\maskCpf.pdb
+C:\Users\maiasb\codes\dotnet\maskCpf\obj\Debug\net8.0\maskCpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiasb\codes\dotnet\maskCpf\obj\Debug\net8.0\maskCpf.AssemblyInfoInputs.cache
+C:\Users\maiasb\codes\dotnet\maskCpf\obj\Debug\net8.0\maskCpf.AssemblyInfo.cs
+C:\Users\maiasb\codes\dotnet\maskCpf\obj\Debug\net8.0\maskCpf.csproj.CoreCompileInputs.cache
+C:\Users\maiasb\codes\dotnet\maskCpf\obj\Debug\net8.0\maskCpf.dll
+C:\Users\maiasb\codes\dotnet\maskCpf\obj\Debug\net8.0\refint\maskCpf.dll
+C:\Users\maiasb\codes\dotnet\maskCpf\obj\Debug\net8.0\maskCpf.pdb
+C:\Users\maiasb\codes\dotnet\maskCpf\obj\Debug\net8.0\maskCpf.genruntimeconfig.cache
+C:\Users\maiasb\codes\dotnet\maskCpf\obj\Debug\net8.0\ref\maskCpf.dll
